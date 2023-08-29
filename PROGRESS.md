@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 9 | ✔️ | 8 | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 28 | 2361 | 196 | 153 | 442 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 37 | 3495 | 196 | 807 | 512 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 37 | 3018 | 196 | 537 | 507 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 145 |
-| [French](#french-français) | 27 | 138 | 37 | 1830 | 196 | 472 | 430 | 124 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2590 | 200 | 206 | 445 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3707 | 200 | 855 | 515 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3235 | 200 | 585 | 510 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2068 | 200 | 525 | 433 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 37 | 2476 | 196 | 802 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 33 | 965 | 18 | 256 | 430 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 42 | 3191 | 196 | 537 | 513 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 37 | 2476 | 196 | 533 | 444 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 14 | 1590 | 17 | 448 | 454 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 724 | 5 | 91 | 215 | 6 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3198 | 196 | 802 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 4 | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1882 | 196 | 541 | 440 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 4010 | 200 | 807 | 526 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 45 | 3746 | 196 | 566 | 523 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 37 | 2476 | 196 | 802 | 444 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 27 | 2010 | 196 | 748 | 438 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 632 | 4010 | 196 | 754 | 526 | 133 |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2703 | 200 | 850 | 447 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1199 | 22 | 316 | 433 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3409 | 200 | 585 | 516 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2703 | 200 | 581 | 447 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1828 | 21 | 503 | 456 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 962 | 9 | 151 | 217 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3414 | 200 | 850 | 493 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2118 | 200 | 589 | 443 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4214 | 204 | 855 | 529 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3950 | 200 | 614 | 526 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2703 | 200 | 850 | 447 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2246 | 200 | 803 | 441 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4214 | 200 | 775 | 529 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -42,12 +42,11 @@
 
 ### Strings
 
-- [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 9 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 8 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 4 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230603_schinese.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_schinese.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -61,15 +60,15 @@
 
 - [reactivedrop_tchinese.txt](addons/ExampleAddon/resource/reactivedrop_tchinese.txt) has 39 untranslated strings.
 - [inventory_service_tags_tchinese.vdf](community/inventory_service/inventory_service_tags_tchinese.vdf) has 21 untranslated strings.
-- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 196 untranslated strings.
-- [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 19 untranslated strings.
+- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 200 untranslated strings.
+- [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 67 untranslated strings.
 - [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 4 untranslated strings.
 - [signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 69 untranslated strings.
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 9 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
-- [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 28 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2361 untranslated strings.
-- [valve_tchinese.txt](resource/valve_tchinese.txt) has 1 untranslated strings.
+- [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2590 untranslated strings.
+- [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
 
@@ -81,8 +80,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_tchinese.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_tchinese.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_tchinese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -95,6 +93,7 @@
 - [rd-LanasEscapeCredits_tchinese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_tchinese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_tchinese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_tchinese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_tchinese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_tchinese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_tchinese.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -367,6 +366,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 
 </details>
 
@@ -380,8 +380,8 @@
 
 - [reactivedrop_czech.txt](addons/ExampleAddon/resource/reactivedrop_czech.txt) has 39 untranslated strings.
 - [inventory_service_tags_czech.vdf](community/inventory_service/inventory_service_tags_czech.vdf) has 32 untranslated strings.
-- [statsweb_czech.vdf](community/stats_website/statsweb_czech.vdf) has 196 untranslated strings.
-- [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 19 untranslated strings.
+- [statsweb_czech.vdf](community/stats_website/statsweb_czech.vdf) has 200 untranslated strings.
+- [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 67 untranslated strings.
 - [workshop_description_czech.vdf](community/workshop/workshop_description_czech.vdf) has 4 untranslated strings.
 - [signage_czech.vdf](misc/signage/signage_czech.vdf) has 69 untranslated strings.
 - [serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
@@ -389,8 +389,8 @@
 - [basemodui_czech.txt](resource/basemodui_czech.txt) has 71 untranslated strings.
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
-- [gameui_czech.txt](resource/gameui_czech.txt) has 37 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3495 untranslated strings.
+- [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3707 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -402,8 +402,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_czech.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_czech.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_czech.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -417,6 +416,7 @@
 - [rd-LanasEscapeCredits_czech.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_czech.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_czech.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_czech.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_czech.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_czech.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_czech.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -689,6 +689,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 
 </details>
 
@@ -702,17 +703,17 @@
 
 - [reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 27 untranslated strings.
-- [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 196 untranslated strings.
-- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 19 untranslated strings.
+- [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 200 untranslated strings.
+- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 67 untranslated strings.
 - [workshop_description_french.vdf](community/workshop/workshop_description_french.vdf) has 4 untranslated strings.
 - [signage_french.vdf](misc/signage/signage_french.vdf) has 69 untranslated strings.
 - [serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [basemodui_french.txt](resource/basemodui_french.txt) has 27 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
-- [gameui_french.txt](resource/gameui_french.txt) has 37 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1830 untranslated strings.
-- [valve_french.txt](resource/valve_french.txt) has 197 untranslated strings.
+- [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2068 untranslated strings.
+- [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
 
@@ -723,8 +724,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_french.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_french.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_french.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -738,6 +738,7 @@
 - [rd-LanasEscapeCredits_french.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_french.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_french.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_french.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_french.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_french.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_french.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -989,6 +990,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`, `description_french`, `display_type_french`
 
 </details>
 
@@ -1000,7 +1002,7 @@
 
 ### Upcoming Release Notes
 
-- [20230603_german.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_german.xml](release_notes/20230901_german.xml) has 2 indented lines.
 
 </details>
 
@@ -1010,7 +1012,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230901_italian.xml](release_notes/20230901_italian.xml) has 2 indented lines.
 
 </details>
 
@@ -1024,7 +1028,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
@@ -1037,15 +1040,16 @@
 ### Strings
 
 - [inventory_service_tags_koreana.vdf](community/inventory_service/inventory_service_tags_koreana.vdf) has 4 untranslated strings.
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 18 untranslated strings.
+- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 22 untranslated strings.
+- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 55 untranslated strings.
 - [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 4 untranslated strings.
 - [signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
-- [gameui_koreana.txt](resource/gameui_koreana.txt) has 33 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 965 untranslated strings.
-- [valve_koreana.txt](resource/valve_koreana.txt) has 91 untranslated strings.
+- [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1199 untranslated strings.
+- [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
 
@@ -1055,8 +1059,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_koreana.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_koreana.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_koreana.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1069,6 +1072,7 @@
 - [rd-LanasEscapeCredits_koreana.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_koreana.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_koreana.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_koreana.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_koreana.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_koreana.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_koreana.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1245,6 +1249,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 
 </details>
 
@@ -1258,22 +1263,21 @@
 
 - [reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 27 untranslated strings.
-- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 196 untranslated strings.
-- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 19 untranslated strings.
+- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 200 untranslated strings.
+- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 67 untranslated strings.
 - [signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
 - [basemodui_polish.txt](resource/basemodui_polish.txt) has 28 untranslated strings.
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
-- [gameui_polish.txt](resource/gameui_polish.txt) has 37 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2476 untranslated strings.
+- [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2703 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230601_polish.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_polish.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_polish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1287,6 +1291,7 @@
 - [rd-LanasEscapeCredits_polish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_polish.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_polish.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_polish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_polish.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_polish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_polish.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1559,6 +1564,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 
 </details>
 
@@ -1572,13 +1578,14 @@
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 6 untranslated strings.
-- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 17 untranslated strings.
+- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 21 untranslated strings.
+- [steam_input_portuguese.vdf](community/steam_input/steam_input_portuguese.vdf) has 55 untranslated strings.
 - [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
-- [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 14 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1590 untranslated strings.
+- [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1828 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1587,8 +1594,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_portuguese.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_portuguese.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_portuguese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1599,6 +1605,7 @@
 - [rd-LanasEscapeCredits_portuguese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_portuguese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_portuguese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_portuguese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_portuguese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_portuguese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_portuguese.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1864,6 +1871,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_portuguese`, `description_portuguese`
 
 </details>
 
@@ -1876,22 +1884,23 @@
 ### Strings
 
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 21 untranslated strings.
-- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 5 untranslated strings.
+- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 9 untranslated strings.
+- [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 55 untranslated strings.
 - [signage_brazilian.vdf](misc/signage/signage_brazilian.vdf) has 69 untranslated strings.
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 2 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
-- [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 27 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 724 untranslated strings.
-- [valve_brazilian.txt](resource/valve_brazilian.txt) has 1 untranslated strings.
+- [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 962 untranslated strings.
+- [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230601_brazilian.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_brazilian.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_brazilian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
 - [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
+- [rd-reduction_campaigncredits_brazilian.txt](credits/rd-reduction_campaigncredits_brazilian.txt) has 12 indented lines.
 
 ### Mail and News
 
@@ -2011,6 +2020,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_brazilian`, `description_brazilian`
 
 </details>
 
@@ -2020,14 +2030,9 @@
 
 </summary>
 
-### Strings
-
-- [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 11 untranslated strings.
-
 ### Upcoming Release Notes
 
-- [20230603_russian.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_russian.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -2041,16 +2046,16 @@
 
 - [reactivedrop_spanish.txt](addons/ExampleAddon/resource/reactivedrop_spanish.txt) has 39 untranslated strings.
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 27 untranslated strings.
-- [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 196 untranslated strings.
-- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 19 untranslated strings.
+- [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 200 untranslated strings.
+- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 67 untranslated strings.
 - [workshop_description_spanish.vdf](community/workshop/workshop_description_spanish.vdf) has 4 untranslated strings.
 - [signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
 - [serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
 - [vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 28 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
-- [gameui_spanish.txt](resource/gameui_spanish.txt) has 35 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1882 untranslated strings.
+- [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2118 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2062,8 +2067,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_spanish.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_spanish.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_spanish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2077,6 +2081,7 @@
 - [rd-LanasEscapeCredits_spanish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_spanish.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_spanish.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_spanish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_spanish.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_spanish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_spanish.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -2349,6 +2354,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 
 </details>
 
@@ -2362,8 +2368,8 @@
 
 - [reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
 - [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 32 untranslated strings.
-- [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 200 untranslated strings.
-- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 19 untranslated strings.
+- [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 204 untranslated strings.
+- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 67 untranslated strings.
 - [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 4 untranslated strings.
 - [signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
@@ -2371,8 +2377,8 @@
 - [basemodui_latam.txt](resource/basemodui_latam.txt) has 1281 untranslated strings.
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
-- [gameui_latam.txt](resource/gameui_latam.txt) has 632 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4010 untranslated strings.
+- [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4214 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2385,8 +2391,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_latam.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_latam.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_latam.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2400,6 +2405,7 @@
 - [rd-LanasEscapeCredits_latam.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_latam.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_latam.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_latam.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_latam.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_latam.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_latam.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -2672,6 +2678,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 
 </details>
 
@@ -2685,14 +2692,15 @@
 
 - [reactivedrop_ukrainian.txt](addons/ExampleAddon/resource/reactivedrop_ukrainian.txt) has 39 untranslated strings.
 - [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 4 untranslated strings.
-- [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 196 untranslated strings.
+- [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 200 untranslated strings.
+- [steam_input_ukrainian.vdf](community/steam_input/steam_input_ukrainian.vdf) has 55 untranslated strings.
 - [signage_ukrainian.vdf](misc/signage/signage_ukrainian.vdf) has 69 untranslated strings.
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 27 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
-- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 27 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2010 untranslated strings.
+- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2246 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2704,8 +2712,7 @@
 
 ### Upcoming Release Notes
 
-- [20230601_ukrainian.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_ukrainian.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_ukrainian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2719,6 +2726,7 @@
 - [rd-LanasEscapeCredits_ukrainian.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_ukrainian.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_ukrainian.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_ukrainian.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_ukrainian.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_ukrainian.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_ukrainian.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -2990,6 +2998,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 
 </details>
 
@@ -3002,32 +3011,26 @@
 ### Strings
 
 - [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
-- [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 27 untranslated strings.
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 196 untranslated strings.
-- [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 19 untranslated strings.
-- [workshop_description_vietnamese.vdf](community/workshop/workshop_description_vietnamese.vdf) has 4 untranslated strings.
+- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
+- [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 67 untranslated strings.
 - [signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 69 untranslated strings.
 - [serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
-- [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 632 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4010 untranslated strings.
-- [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 225 untranslated strings.
+- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 634 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4214 untranslated strings.
+- [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
 
-- [eula_vietnamese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_vietnamese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
-- [20230601_vietnamese.xml](release_notes/20230601_english.xml) is missing.
-- [20230603_vietnamese.xml](release_notes/20230603_english.xml) is missing.
+- [20230901_vietnamese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -3041,6 +3044,7 @@
 - [rd-LanasEscapeCredits_vietnamese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_vietnamese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_vietnamese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_vietnamese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_vietnamese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_vietnamese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_vietnamese.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -3300,6 +3304,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 
 </details>
 
